@@ -5,12 +5,18 @@
 * Este modelo recebe características de um imóvel e retorna um valor estimado com base em padrões identificados nos dados históricos. *
 
 🔹 Principais etapas do projeto:
-✔️ Coleta e exploração dos dados 📊
-✔️ Tratamento de valores ausentes e outliers ⚙️
-✔️ Normalização e seleção de variáveis 🔍
-✔️ Treinamento do modelo de Regressão Linear 🤖
-✔️ Avaliação do desempenho do modelo 📈
-✔️ Salvamento do modelo para futuras predições 💾
+✔️ Coleta e exploração dos dados
+
+✔️ Tratamento de valores ausentes e outliers 
+
+✔️ Normalização e seleção de variáveis
+
+✔️ Treinamento do modelo de Regressão Linear
+
+✔️ Avaliação do desempenho do modelo 
+
+✔️ Salvamento do modelo para futuras predições 
+
 
 1️⃣ Ative o ambiente virtual (caso necessário):
 # No Windows:

@@ -26,6 +26,7 @@ Contribuições são bem-vindas! Se tiver sugestões, abra uma issue ou envie um
 
 **Links:**
 * [LinkedIn](www.linkedin.com/in/abner-macedo-60144a277)
+* [Medium]([www.linkedin.com/in/abner-macedo-60144a277](https://medium.com/@abnermacedo.ds))
 
 
 ## Projetos:

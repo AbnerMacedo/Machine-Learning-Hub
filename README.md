@@ -21,9 +21,7 @@
 
 * Redes Neurais → Reconhecimento de imagens 
 
-**Experiência em:** Python, Machine Learning, Estatistica, Mecânica, Visualização de dados.
-
-## 🤝Contribuições
+## **🤝Contribuições**
 Contribuições são bem-vindas! Se tiver sugestões, abra uma issue ou envie um pull request.
 
 **Links:**

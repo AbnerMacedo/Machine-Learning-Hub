@@ -30,7 +30,7 @@ Contribuições são bem-vindas! Se tiver sugestões, abra uma issue ou envie um
 
 ## Projetos:
 
-* **Modelo de Regressão Linear - Boston Housing:** 
+* **Modelo de Regressão Linear - Boston Housing:**  bit.ly/4ibSNbI
 
 
 ---

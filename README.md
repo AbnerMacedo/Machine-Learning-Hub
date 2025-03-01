@@ -5,6 +5,7 @@
 * Este modelo recebe características de um imóvel e retorna um valor estimado com base em padrões identificados nos dados históricos. *
 
 🔹 Principais etapas do projeto:
+
 ✔️ Coleta e exploração dos dados
 
 ✔️ Tratamento de valores ausentes e outliers 

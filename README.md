@@ -1,31 +1,33 @@
-[![author](https://img.shields.io/badge/author-abnermacedo-red.svg)](https://www.linkedin.com/in/abner-macedo-60144a277) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AbnerMacedo/data_science/issues)
+## Predição de Preços de Imóveis - Boston Housing ##
+### Este projeto faz parte do repositório Machine Learning Hub e utiliza Machine Learning para prever preços de imóveis com base no conjunto de dados Boston Housing. O modelo foi desenvolvido usando Regressão Linear para entender como diferentes variáveis influenciam os preços das propriedades. ###
 
-<p align="center">
-  <img src="Banner.png" >
-</p>
+📌 Sobre o Projeto
+* Este modelo recebe características de um imóvel e retorna um valor estimado com base em padrões identificados nos dados históricos. *
 
-# Abner Macedo
-<sub>*Data Scientist* at Business Intelligence</sub>
+🔹 Principais etapas do projeto:
+✔️ Coleta e exploração dos dados 📊
+✔️ Tratamento de valores ausentes e outliers ⚙️
+✔️ Normalização e seleção de variáveis 🔍
+✔️ Treinamento do modelo de Regressão Linear 🤖
+✔️ Avaliação do desempenho do modelo 📈
+✔️ Salvamento do modelo para futuras predições 💾
 
-Bem-vindo ao meu repositório de Machine Learning! Aqui você encontrará uma coleção de projetos, artigos e códigos práticos voltados para o aprendizado de máquina, abordando desde conceitos básicos até soluções mais avançadas.
+1️⃣ Ative o ambiente virtual (caso necessário):
+# No Windows:
+venv\Scripts\activate
+# No Linux/Mac:
+source venv/bin/activate
 
-Este repositório será atualizado constantemente com novos projetos e tutoriais sobre Machine Learning, abordando desde modelos clássicos até técnicas mais avançadas. O objetivo é oferecer um material rico e acessível para quem deseja aprender e aplicar ML no dia a dia.
+2️⃣ Treine o modelo:
+python src/treinar_modelo.py
 
-**Tecnologias utilizadas:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
-**Ambiente de Desenvolvimento:** Jupyter Notebook, VS Code.
+3️⃣ Teste a predição:
+python src/test.py
+🛠 Tecnologias Utilizadas
+Python 3.x
+Scikit-learn
+Pandas
+NumPy
 
-Se você deseja contribuir com este repositório, fique à vontade para abrir uma issue ou enviar um pull request. Toda contribuição é bem-vinda! 
-
-**Links:**
-* [LinkedIn](www.linkedin.com/in/abner-macedo-60144a277)
-
-
-## Projetos:
-
-
-
----
-
-
-
-
+## 📜 Licença
+Este projeto está sob a licença MIT License.

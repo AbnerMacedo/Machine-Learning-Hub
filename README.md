@@ -2,7 +2,7 @@
 ### Este projeto faz parte do repositório Machine Learning Hub e utiliza Machine Learning para prever preços de imóveis com base no conjunto de dados Boston Housing. O modelo foi desenvolvido usando Regressão Linear para entender como diferentes variáveis influenciam os preços das propriedades. ###
 
 ## 📌 Sobre o Projeto
-#* Este modelo recebe características de um imóvel e retorna um valor estimado com base em padrões identificados nos dados históricos. *
+* Este modelo recebe características de um imóvel e retorna um valor estimado com base em padrões identificados nos dados históricos. *
 
 🔹 Principais etapas do projeto:
 

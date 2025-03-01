@@ -11,15 +11,15 @@
 
 ## Sobre o Repositório
 
-* Este repositório reúne diversos modelos de Machine Learning aplicados a diferentes domínios, como:
+ **Este repositório reúne diversos modelos de Machine Learning aplicados a diferentes domínios, como:**
 
-. Regressão Linear → Predição de preços de imóveis 
+* Regressão Linear → Predição de preços de imóveis 
 
-. Classificação → Diagnóstico de doenças 
+* Classificação → Diagnóstico de doenças 
 
-. Clusterização → Agrupamento de clientes 
+* Clusterização → Agrupamento de clientes 
 
-. Redes Neurais → Reconhecimento de imagens 
+* Redes Neurais → Reconhecimento de imagens 
 
 **Experiência em:** Python, Machine Learning, Estatistica, Mecânica, Visualização de dados.
 

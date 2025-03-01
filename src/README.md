@@ -30,10 +30,15 @@ python src/treinar_modelo.py
 
 3️⃣ Teste a predição:
 python src/test.py
+
 🛠 Tecnologias Utilizadas
+
 Python 3.x
+
 Scikit-learn
+
 Pandas
+
 NumPy
 
 ## 📜 Licença

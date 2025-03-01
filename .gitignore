@@ -1,0 +1,11 @@
+# Ignorar o ambiente virtual
+venv/
+.venv/
+
+# Arquivos gerados automaticamente
+__pycache__/
+*.pyc
+*.pyo
+
+# Modelos treinados (caso queira evitar uploads grandes)
+*.pkl
